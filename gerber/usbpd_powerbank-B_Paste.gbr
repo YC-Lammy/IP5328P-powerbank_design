@@ -1,0 +1,21 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,5.99.0-unknown-a8672dd2f9~128~ubuntu20.04.1*%
+%TF.CreationDate,2021-05-09T18:34:13+01:00*%
+%TF.ProjectId,usbpd_powerbank,75736270-645f-4706-9f77-657262616e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.99.0-unknown-a8672dd2f9~128~ubuntu20.04.1) date 2021-05-09 18:34:13*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,14.000000X10.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,BT1*%
+X87000000Y-80000000D03*
+X123000000Y-80000000D03*
+%TD*%
+M02*
