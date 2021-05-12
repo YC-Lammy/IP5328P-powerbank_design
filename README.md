@@ -12,6 +12,7 @@
  - Support PD3.0 input/output and PPS output protocol
  - Support 5V@3.1A, 9V@2.0A, 12V@1.5A voltage output
  
+  Kicad nightly 5.99
  
  <img width="640" alt="3D Viewer 1_28_2021 6_44_57 PM" src="https://raw.githubusercontent.com/YC-Lammy/IP5328P-powerbank_design/main/photos/Screenshot%20from%202021-05-09%2018-51-45.png">
 
